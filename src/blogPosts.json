@@ -1,0 +1,25 @@
+[
+  { 
+    "title": "Choosing an Optimal Architecture: Project Case Study ~ Rokas Bite #1", 
+    "contentFile": "post1",
+    "img": "./res/blog1.png",
+    "images": {
+      "{{img1}}": "./res/blog1in1.jpg",
+      "{{img2}}": "./res/blog1in2.png",
+      "{{img3}}": "./res/blog1in3.png"
+    }
+  },
+  { 
+    "title": "Structure Inside a Microservice: Project Case Study ~ Rokas Bite #2", 
+    "contentFile": "post2",
+    "img": "./res/blog2.png",
+    "images": {
+      "{{img1}}": "./res/blog2in1.jpg"
+    }
+  },
+  { 
+    "title": "Stay Tuned For More", 
+    "contentFile": "post3",
+    "img": "./res/blog3.png"
+  }
+]
